@@ -1,7 +1,7 @@
 <div id="Header" align="center">
 
    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
-   <h1 align="center""">¡Hola👋! Soy NicolasCuervo</h1>
+   <h1 align="center""">¡Hola👋! Soy Nicolas Cuervo</h1>
    <h3 align="center">Soy un joven colombiano de 16 años apasionado por aprender programacion,
     actualmente mi interes y mi enfoque principal es el FrontEnd,
     gracias a este enfoque tengo conocimientos en Html, Css y JavaScript</h3>
