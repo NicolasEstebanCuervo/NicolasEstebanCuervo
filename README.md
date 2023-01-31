@@ -4,7 +4,7 @@
    <h1 align="center""">¡Hola👋! Soy Nicolas Cuervo</h1>
    <h3 align="center">Soy un joven colombiano de 16 años apasionado por aprender programacion,
     actualmente mi interes y mi enfoque principal es el FrontEnd,
-    gracias a tengo conocimientos en Html, Css y JavaScript</h3>
+    gracias a tengo conocimientos en Html, Css y JavaScript.</h3>
 
 </div>
 
