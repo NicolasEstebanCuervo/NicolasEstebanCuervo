@@ -1,8 +1,7 @@
 <div id="Header" align="center">
-<a href="https://ibb.co/PxfZqVV"><img src="https://i.ibb.co/VVPWfkk/Portada.png" alt="Portada" border="0"></a>
+   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+   <h1 align="center">¡Hey there! I'm Nicolas cuervo 🐉</h1>
 </div>
-
----
 
 ### 💻 Mis repositorios mas 
 
