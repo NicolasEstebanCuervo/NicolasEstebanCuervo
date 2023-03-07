@@ -1,10 +1,5 @@
 <div id="Header" align="center">
-
-   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200">
-   <h1>¡Hey there👋! I am Nicolas Cuervo</h1>
-   <h3>Soy un joven colombiano de 16 años apasionado por aprender programacion,
-   actualmente me encuentro en formacion para ser un proximo desarrollador FrontEnd</h3>
-
+   <img src="https://acortar.link/D7T6r6" alt="Genera-ingresos-7" border="0">
 </div>
 
 ---
@@ -17,6 +12,8 @@
 ---
 
 ###  🧑 Sobre mi:
+   
+-Soy un joven colombiano de 16 años apasionado por aprender programacion,actualmente me encuentro en formacion para ser un proximo desarrollador FrontEnd
    
 - Tengo un gran manejo de herramientas como lo son Html y Css y estoy en la exploracion de realizar y perfeccionar herramientas como lo son
   Bootstrap y Sass para tener una mejor tecnica de diseño web.
