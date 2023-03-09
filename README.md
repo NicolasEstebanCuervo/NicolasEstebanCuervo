@@ -53,5 +53,3 @@
 - Si quieres contactarme por correo  "rojascuervo942@gmail.com"
    
 - Si deseas ver mi perfil de twiter puedes verlo en : [EstebanCuervo](https://twitter.com/EstebanCuervo_)
-
----
