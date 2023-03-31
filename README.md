@@ -38,7 +38,7 @@
 
 ### 📊 Mis lenguajes mas usados :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEstebanCuervo&exclude_repo=EsperanzaDress&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEstebanCuervo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
 ### 📈 Mis estadisticas en Github
    
