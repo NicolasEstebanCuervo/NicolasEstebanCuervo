@@ -3,7 +3,7 @@
    <h1 align="center">¡Hey there! I'm Nicolas cuervo 🐉</h1>
 </div>
 
-### 💻 Mis repositorios mas 
+### 💻 Mis repositorios mas importantes
 
 - <h3>👗 EsperanzaDress</h3> • Actualmente mi proyecto mas grande es EsperanzaDress, se trata del boceto de una tienda web. Este proyecto se encuentra en la etapa de adaptacion a React. <a href="https://github.com/NicolasEstebanCuervo/EsperanzaDress">Ver repositorio<a/>
 - <h3>⏲📝 Pomodoro and Todo list</h3> • Como mi primer proyecto hecho con React, decidi realizar una pagina interactiva que tiene un reloj con la tecnica pomodoro y tambien tiene integrada una lista de tareas funcional. Este proyecto actualmente se encuentra finalizado.<a href="https://github.com/NicolasEstebanCuervo/PomodoroTimer">Ver repositorio<a/>
