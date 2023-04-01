@@ -6,20 +6,20 @@
 ### 💻 Mis repositorios mas 
 
 - <h3>👗 EsperanzaDress</h3> • Actualmente mi proyecto mas grande es EsperanzaDress, se trata del boceto de una tienda web. Este proyecto se encuentra en la etapa de adaptacion a React. <a href="https://github.com/NicolasEstebanCuervo/EsperanzaDress">Ver repositorio<a/>
-- <h3>⏲📝 Pomodoro and Todo list</h3> • Como mi primer proyecto hecho con React, decidi realizar una pagina interactiva que tiene un reloj con la tecnica pomodoro y tambien tiene integrada una lista de tareas funcional, este proyecto actualmente se encuentra en desarrollo y esta proximo a ser finalizado.<a href="https://github.com/NicolasEstebanCuervo/PomodoroTimer">Ver repositorio<a/>
+- <h3>⏲📝 Pomodoro and Todo list</h3> • Como mi primer proyecto hecho con React, decidi realizar una pagina interactiva que tiene un reloj con la tecnica pomodoro y tambien tiene integrada una lista de tareas funcional. Este proyecto actualmente se encuentra finalizado.<a href="https://github.com/NicolasEstebanCuervo/PomodoroTimer">Ver repositorio<a/>
+- <h3>🐱 FormPet</h3> • Anteriormente habia hecho proyectos en React, pero en estos implemente codigo hecho por un programador ajeno, o codigo rehusado mio. Pero no me conforme con eso y decidi crear un proyecto totalmente desde 0 y con codigo nuevo por mi parte. Este proyecto cuenta con un formulario donde se llenaran unos datos de una mascota, y en base a estos datos se generara un resultado diferente. Este proyecto actualmente se encuentra finalizado <a href="https://github.com/NicolasEstebanCuervo/FormPet">Ver repositorio<a/>
    
 ---
 
 ###  🧑 Sobre mi:
    
-- Soy un joven colombiano de 16 años apasionado por aprender programacion,actualmente me encuentro en formacion para ser un proximo desarrollador FrontEnd
-   
-- Tengo un gran manejo de herramientas como lo son Html y Css y estoy en la exploracion de realizar y perfeccionar herramientas como lo son
-  Bootstrap y Sass para tener una mejor tecnica de diseño web.
+Soy una persona capacitada para estructurar un proyecto en base al conocimiento en herramientas de FrontEnd, algunas de las herramientas y lenguajes en las cuales me destacó son:
 
-- Tengo un buen manejo en los comandos fundamentales de Git, y gracias a esto puedo tener un buen manejo de mis repositorios locales y remotos. Actualmente me encuentro en la practica de flujos de trabajo como lo es el famoso Gitflow.
-   
-- Actualmente me encuentro estudiando JavaScript en conjunto con React para mejorar mis aplicaciones web. Y en conjunto a eso, estoy en la creacion de mini proyectos para probar mis conocimientos en estas dos tecnologias.
+- Lenguaje y herramientas de diseño como lo son: HTML, Css, Bootstrap y lenguaje SASS.
+
+- Lenguajes de programación y librerías cómo lo son: Javascript y React Js.
+
+- Uso de herramientas de programación como lo son: Git y Github.
    
 ---
 
@@ -31,7 +31,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"           height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="JavaScript" alt="JavaScript" width="40"                     height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="JavaScript" alt="JavaScript" width="40"             height="40"/>&nbsp;
-        <a href="https://www.linkedin.com/in/nicolas-esteban-rojas-cuervo-9b72831ba/"><img                                                                           src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="React" width="40"                           height="40"/>&nbsp;</a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="JavaScript" alt="JavaScript" width="40"                       height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="JavaScript" alt="JavaScript" width="40"                         height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="JavaScript" alt="JavaScript" width="40"                   height="40"/>&nbsp;
      </div>
 
 </div>
