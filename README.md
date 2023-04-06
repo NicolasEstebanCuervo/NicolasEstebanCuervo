@@ -3,14 +3,6 @@
    <h1 align="center">¡Hey there! I'm Nicolas cuervo 🐉</h1>
 </div>
 
-### 💻 Mis repositorios mas importantes
-
-- <h3>👗 EsperanzaDress</h3> • Actualmente mi proyecto mas grande es EsperanzaDress, se trata del boceto de una tienda web. Este proyecto se encuentra en la etapa de adaptacion a React. <a href="https://github.com/NicolasEstebanCuervo/EsperanzaDress">Ver repositorio<a/>
-- <h3>⏲📝 Pomodoro and Todo list</h3> • Como mi primer proyecto hecho con React, decidi realizar una pagina interactiva que tiene un reloj con la tecnica pomodoro y tambien tiene integrada una lista de tareas funcional. Este proyecto actualmente se encuentra finalizado.<a href="https://github.com/NicolasEstebanCuervo/PomodoroTimer">Ver repositorio<a/>
-- <h3>🐱 FormPet</h3> • Anteriormente habia hecho proyectos en React, pero en estos implemente codigo hecho por un programador ajeno, o codigo rehusado mio. Pero no me conforme con eso y decidi crear un proyecto totalmente desde 0 y con codigo nuevo por mi parte. Este proyecto cuenta con un formulario donde se llenaran unos datos de una mascota, y en base a estos datos se generara un resultado diferente. Este proyecto actualmente se encuentra finalizado <a href="https://github.com/NicolasEstebanCuervo/FormPet">Ver repositorio<a/>
-   
----
-
 ###  🧑 Sobre mi:
    
 Soy una persona capacitada para estructurar un proyecto en base al conocimiento en herramientas de FrontEnd, algunas de las herramientas y lenguajes en las cuales me destacó son:
