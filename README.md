@@ -29,10 +29,6 @@ Soy una persona capacitada para estructurar un proyecto en base al conocimiento 
      </div>
 
 </div>
-
-### 📊 Mis lenguajes mas usados :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEstebanCuervo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
 ### 📈 Mis estadisticas en Github
    
