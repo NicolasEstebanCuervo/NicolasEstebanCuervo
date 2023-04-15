@@ -38,8 +38,8 @@ Soy una persona capacitada para estructurar un proyecto en base al conocimiento 
   
 ### 📱 Redes de contacto :
 
-- Si quieres ver mi perfil de Linkedin puedes verlo dando click a este enlace: <a href="https://www.linkedin.com/in/nicolas-esteban-rojas-cuervo-9b72831ba/"     target="_blank">NicolasCuervo</a>
+- Si quieres ver mi perfil de Linkedin puedes verlo dando click a este enlace: <a href="https://www.linkedin.com/in/nicolasestebancuervo/"     target="_blank">NicolasCuervo</a>
 
 - Si quieres contactarme por correo  "rojascuervo942@gmail.com"
    
-- Si deseas ver mi perfil de twiter puedes verlo en : <a href="https://www.linkedin.com/in/nicolas-esteban-rojas-cuervo-9b72831ba/"                             target="_blank">NicolasCuervo</a>
+- Si deseas ver mi perfil de twiter puedes verlo en : <a href="https://twitter.com/EstebanCuervo_"                             target="_blank">NicolasCuervo</a>
