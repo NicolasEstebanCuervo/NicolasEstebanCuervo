@@ -26,6 +26,7 @@ Soy una persona capacitada para estructurar un proyecto en base al conocimiento 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="JavaScript" alt="JavaScript" width="40"                       height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="JavaScript" alt="JavaScript" width="40"                         height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="JavaScript" alt="JavaScript" width="40"                   height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="JavaScript" alt="JavaScript" width="40"                   height="40"/>&nbsp;
      </div>
 
 </div>
