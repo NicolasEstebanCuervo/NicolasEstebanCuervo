@@ -34,8 +34,8 @@ Soy una persona capacitada para estructurar un proyecto en base al conocimiento 
    
 ### 📈 Mis estadisticas en Github
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=radical)
-   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=tokyonight)
+
 ---
   
 ### 📱 Redes de contacto :
