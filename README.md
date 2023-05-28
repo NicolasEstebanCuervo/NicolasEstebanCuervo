@@ -29,6 +29,8 @@ Soy una persona capacitada para estructurar proyectos basados en herramientas de
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30">
 </div>
    
+---
+   
 ### 📈 Mis estadísticas en Github
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=tokyonight)
