@@ -5,13 +5,16 @@
 
 ### 🧑 Sobre mí
 
-Soy una persona capacitada para estructurar proyectos basados en herramientas de FrontEnd. Algunas de las herramientas y lenguajes en los que me destaco son:
+Soy un desarrollador capacitado y experimentado en la estructuración de proyectos basados en herramientas de Front-End. Mi enfoque se centra en crear soluciones visuales atractivas y funcionales utilizando diversas herramientas y lenguajes. Aquí hay más detalles sobre mis áreas de experiencia:
 
-- Utilizo lenguajes y herramientas de diseño como HTML, CSS, Bootstrap y Sass para crear estilos visuales en mis proyectos. Además, cuento con las librerías Emotion-Styled y Storybook, las cuales me ayudan a mejorar el rendimiento de las hojas de estilos, permitiéndome estructurar y mantener mis estilos de manera más eficiente y modular.
+- Herramientas y lenguajes de diseño:
+Utilizo lenguajes fundamentales como HTML y CSS para crear la estructura y los estilos visuales de mis proyectos. Además, me destaco en el uso de herramientas como Bootstrap y Sass, que me permiten agilizar el proceso de diseño y asegurar una apariencia coherente en todas las páginas. Además, cuento con experiencia en el uso de librerías como Emotion-Styled y Storybook, las cuales son fundamentales para mejorar el rendimiento de las hojas de estilos, permitiéndome estructurar y mantener mis estilos de manera más eficiente y modular.
 
-- En cuanto a los lenguajes de programación, trabajo con JavaScript, React y TypeScript. Estas herramientas me brindan la capacidad de desarrollar aplicaciones web dinámicas y escalables, así como facilitar el manejo de estados y la creación de componentes interactivos.
+- Lenguajes de programación:
+Mi conjunto de habilidades incluye el uso de lenguajes de programación como JavaScript, React y TypeScript. Estas herramientas son fundamentales para desarrollar aplicaciones web dinámicas y escalables. Gracias a React, puedo crear componentes reutilizables que facilitan el mantenimiento y la extensibilidad del código. Además, TypeScript me brinda la ventaja de la tipificación estática, lo que me permite detectar errores durante el desarrollo y garantizar un código más sólido y confiable.
 
-- Además, hago uso de herramientas de programación globales como Git y GitHub. Estas herramientas me permiten gestionar eficientemente el control de versiones de mi código, colaborar con otros desarrolladores y mantener un registro histórico de los cambios realizados en el proyecto.
+- Gestión de versiones y colaboración:
+Para mantener un flujo de trabajo eficiente y colaborativo, utilizo herramientas de control de versiones como Git y plataformas de colaboración como GitHub. Estas herramientas me permiten rastrear los cambios realizados en el código, colaborar con otros desarrolladores y mantener un historial de versiones del proyecto. Además, estoy familiarizado con el flujo de trabajo de ramas (branches) y solicitudes de extracción (pull requests), lo que facilita la colaboración en equipo y garantiza una integración suave de las nuevas funcionalidades.
    
 ---
 
