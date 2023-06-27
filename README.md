@@ -27,6 +27,7 @@ Soy una persona capacitada para estructurar proyectos basados en herramientas de
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30">
 </div>
    
 ---
