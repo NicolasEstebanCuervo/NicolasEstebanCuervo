@@ -56,7 +56,4 @@ Para mantener un flujo de trabajo eficiente y colaborativo, utilizo herramientas
   <a href="mailto:rojascuervo942@gmail.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Correo electrónico" width="30" height="30">
   </a>
-  <a href="https://www.instagram.com/rojas_cuervo" target="_blank">
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/instagram-color-icon.svg" alt="Instagram" width="30" height="30">
-  </a>
 </div>
