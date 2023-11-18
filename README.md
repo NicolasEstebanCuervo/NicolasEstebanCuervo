@@ -38,8 +38,7 @@ Para mantener un flujo de trabajo eficiente y colaborativo, utilizo herramientas
    
 ### 📈 Mis estadísticas en Github
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=radical)
 ---
   
 ### 📱 Contáctame
