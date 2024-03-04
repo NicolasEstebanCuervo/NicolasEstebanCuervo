@@ -50,9 +50,6 @@ Entiendo la importancia de las pruebas automatizadas para garantizar la calidad 
   <a href="https://nicolas-cuervo.vercel.app/" target="_blank">
     <img src="https://www.svgrepo.com/show/261026/portfolio.svg" alt="Porfolio" width="40" height="40">
   </a>
-  <a href="https://twitter.com/EstebanCuervo_" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
-  </a>
   <a href="https://www.linkedin.com/in/nicolasestebancuervo/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
