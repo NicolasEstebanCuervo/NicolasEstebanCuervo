@@ -63,22 +63,3 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
     </td>
   </tr>
 </table>
-
-## 💡 Otros proyectos
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/NicolasEstebanCuervo/Synapsify" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasEstebanCuervo&repo=Synapsify&theme=react" 
-      alt="Synapsify Repo Card" 
-      style="max-width: 100%;"
-    />
-  </a>
-  <a href="https://github.com/NicolasEstebanCuervo/PawsAndClaws" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasEstebanCuervo&repo=PawsAndClaws&theme=react" 
-      alt="Paws And Claws Repo Card" 
-      style="max-width: 100%;"
-    />
-  </a>
-</div>
