@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/nicolas-cuervo/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolasestebancuervo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.nico-cuervo.com/" target="_blank">
