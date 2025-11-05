@@ -1,45 +1,84 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-  <h1>¡Hey there! I'm Nicolas Cuervo 🐉</h1>
+<p align="center">
+  <img src="https://i.ibb.co/YFmDPL6S/Banner-Nicolas-Cuervo.png" alt="Banner Nicolás Cuervo" width="100%" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/nicolas-cuervo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.nico-cuervo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+Soy un **desarrollador Full Stack** con experiencia en la creación de aplicaciones web y móviles.  
+Me gusta construir soluciones completas, desde la **estructura lógica del backend** hasta la **interfaz visual del frontend**, siempre buscando que cada proyecto tenga un enfoque modular, mantenible y funcional.
+
+He trabajado en el desarrollo de **APIs**, **creación de endpoints**, **mecanismos de autenticación** y **estructuras de datos escalables**, aplicando buenas prácticas y priorizando la claridad del código.  
+Me interesa entender cómo se comunican las diferentes capas de una aplicación y cómo optimizar esos procesos para lograr un rendimiento estable y una buena experiencia de usuario.
+
+En 2024 participé como **Frontend Junior** en [**Libellus**](https://libellus.io/en), una aplicación móvil de productividad disponible en la **Play Store**, donde trabajé en la construcción de componentes reutilizables, pruebas con **Storybook** y **Jest**, y la implementación de vistas dinámicas en **React Native**.  
+
+Actualmente hago parte de **Zeeth**, una organización de programadores donde trabajamos en proyectos privados, explorando nuevas ideas y mejorando nuestras habilidades día a día.  
+Estoy en constante aprendizaje, estudiando y experimentando con diferentes tecnologías y conceptos que me permitan seguir creciendo como desarrollador.  
+También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de manera continua.
+
+## Mi stack tecnológico
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,redux,git,github,mongodb,firebase,postgres" />
+</p>
+
+## Proyectos actuales
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Venmarks</h3>
+      <p>
+      Marketplace que conecta tiendas locales con usuarios, impulsando el comercio independiente y la visibilidad de pequeños negocios.  
+      Desarrollado con <strong>React</strong> y <strong>TypeScript</strong>, enfocándose en una arquitectura modular y componentes reutilizables.  
+      Actualmente en desarrollo, con lanzamiento estimado para inicios de 2026.
+      </p>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/PRÓXIMAMENTE%20DISPONIBLE%20-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <span>  </span>
+    </td>
+    <td width="50%">
+      <h3>Synkora API</h3>
+      <p>
+        API para la gestión de tareas con autenticación y base de datos en la nube.  
+        Desarrollada con <strong>Node.js</strong>, <strong>Express</strong>, <strong>Firebase Auth</strong> y <strong>Cloud Firestore</strong>.  
+        Actualmente estoy mejorando su documentación para una comprensión más clara del proyecto.
+      </p>
+      <p>
+        <a href="https://github.com/NicolasEstebanCuervo/Synkora-API" target="_blank">
+          <img src="https://img.shields.io/badge/Ir%20al%20Repositorio-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <span>  </span>
+    </td>
+  </tr>
+</table>
+
+## 💡 Otros proyectos
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/NicolasEstebanCuervo/Synapsify" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasEstebanCuervo&repo=Synapsify&theme=react" 
+      alt="Synapsify Repo Card" 
+      style="max-width: 100%;"
+    />
+  </a>
+  <a href="https://github.com/NicolasEstebanCuervo/PawsAndClaws" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasEstebanCuervo&repo=PawsAndClaws&theme=react" 
+      alt="Paws And Claws Repo Card" 
+      style="max-width: 100%;"
+    />
+  </a>
 </div>
-
-### 🧑 Sobre mí
-
-Soy un desarrollador experimentado en la estructuración de proyectos Front-End, con un enfoque en la creación de soluciones visuales y funcionales atractivas. Aquí están mis áreas de experiencia:
-
-- React y TypeScript:
-Tengo un sólido dominio de React, especialmente en su implementación con TypeScript. Utilizo React Context y Redux Toolkit para gestionar el estado de la aplicación de manera eficiente y escalable.
-
-- Lenguajes y Librerías de Diseño:
-En cuanto a diseño, tengo experiencia en el uso de CSS para estilizar aplicaciones web. Además, me especializo en el uso de librerías de estilos como Storybook, Emotion Styled y Framer Motion para crear interfaces atractivas y dinámicas que mejoren la experiencia del usuario.
-
-- Gestión de versiones y colaboración:
-Utilizo Git y GitHub para mantener un flujo de trabajo eficiente y colaborativo, lo que me permite rastrear cambios, colaborar con otros desarrolladores y garantizar una integración suave de nuevas funcionalidades.
-
-- Pruebas y calidad de código:
-Empleo Jest para pruebas unitarias, Testing Library para pruebas de integración, y Cypress para pruebas end-to-end. Esto asegura la calidad del código y la funcionalidad del software en diferentes escenarios y navegadores.
-
----
-
-### 🔨 Lenguajes y herramientas
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="30" height="30">
-</div>
-   
----
-   
-### 📈 Mis estadísticas en Github
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasEstebanCuervo&show_icons=true&theme=radical)
----
