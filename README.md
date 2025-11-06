@@ -29,7 +29,7 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,redux,git,github,mongodb,firebase,postgres" />
 </p>
 
-## Proyectos actuales
+## Proyectos en desarrollo
 
 <table>
   <tr>
