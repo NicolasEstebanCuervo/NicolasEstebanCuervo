@@ -61,5 +61,20 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
       </p>
       <span>  </span>
     </td>
+ <tr>
+    <td colspan="2" width="100%">
+      <h3>Synapsify</h3>
+      <p>
+        Proyecto desarrollado en <strong>2024</strong> enfocado en la gestión integral de tickets, tareas y notas.  
+        Construido con <strong>React</strong> y <strong>TypeScript</strong>, aplicando un sistema de contexto global para manejar entidades relacionadas.  
+        Actualmente estoy realizando una refactorización completa para mejorar la arquitectura, optimizar el rendimiento y fortalecer la relación entre tickets y tareas.
+      </p>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/REFACCIÓN%20EN%20PROCESO-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <span>  </span>
+    </td>
   </tr>
 </table>
