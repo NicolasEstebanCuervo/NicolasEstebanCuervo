@@ -48,21 +48,6 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
       <span>  </span>
     </td>
     <td width="50%">
-      <h3>Synkora API</h3>
-      <p>
-        API para la gestión de tareas con autenticación y base de datos en la nube.  
-        Desarrollada con <strong>Node.js</strong>, <strong>Express</strong>, <strong>Firebase Auth</strong> y <strong>Cloud Firestore</strong>.  
-        Actualmente estoy mejorando su documentación para una comprensión más clara del proyecto.
-      </p>
-      <p>
-        <a href="https://github.com/NicolasEstebanCuervo/Synkora-API" target="_blank">
-          <img src="https://img.shields.io/badge/Ir%20al%20Repositorio-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <span>  </span>
-    </td>
- <tr>
-    <td colspan="2" width="100%">
       <h3>Synapsify</h3>
       <p>
         Proyecto desarrollado en <strong>2024</strong> enfocado en la gestión integral de tickets, tareas y notas.  
@@ -76,5 +61,4 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
       </p>
       <span>  </span>
     </td>
-  </tr>
 </table>
