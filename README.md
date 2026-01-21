@@ -38,7 +38,7 @@ También cuento con un nivel de inglés **B1**, el cual sigo fortaleciendo de ma
       <p>
       Marketplace que conecta tiendas locales con usuarios, impulsando el comercio independiente y la visibilidad de pequeños negocios.  
       Desarrollado con <strong>React</strong> y <strong>TypeScript</strong>, enfocándose en una arquitectura modular y componentes reutilizables.  
-      Actualmente en desarrollo, con lanzamiento estimado para inicios de 2026.
+      Actualmente en desarrollo, con lanzamiento estimado para el año 2026.
       </p>
       <p>
         <a href="#" target="_blank">
